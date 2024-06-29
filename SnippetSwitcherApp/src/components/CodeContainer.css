@@ -1,0 +1,9 @@
+.code-container{
+    background:linear-gradient(to bottom, rgb(60, 0, 85), rgb(19, 0, 28));
+    color: gold;
+    height: 600px;
+    width: 900px;
+    font-size: xx-large;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
